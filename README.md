@@ -1,4 +1,4 @@
-## 👋🏻 Changhyeon, Yoon (Front-End Developer) 
+## 👋🏻 Changhyeon Yoon (Front-End Developer) 
 - ⛪ School️ : Hanyang University Computer Software Dept. / 한양대학교 컴퓨터 소프트웨어 학부
 - 🏢 Office : Actbase, Front-End Developer ( 2020. 12 ~ current ) 
 - 🏢 Office : KSD [Korea Securities Depository] Front-End Developer ( 2021. 01 ~ current ) / 한국예탁결제원 
