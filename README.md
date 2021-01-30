@@ -1,4 +1,4 @@
-## 👋🏻 Changhyeon Yoon (Front-End Developer) 
+## 👋🏻 Changhyeon Yoon (Front-End Developer) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChanghyeonYoon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 - ⛪ School️ : Hanyang University Computer Software Dept. / 한양대학교 컴퓨터 소프트웨어 학부
 - 🏢 Office : Actbase, Front-End Developer ( 2020. 12 ~ current ) 
 - 🏢 Office : KSD [Korea Securities Depository] Front-End Developer ( 2021. 01 ~ current ) / 한국예탁결제원 
@@ -21,6 +21,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanghyeonYoon&count_private=true)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ChanghyeonYoon)](https://solved.ac/kinetic27)
 
 <!--
 **ChanghyeonYoon/ChanghyeonYoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
