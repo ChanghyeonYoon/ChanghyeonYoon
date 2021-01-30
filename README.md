@@ -20,8 +20,8 @@
 - Linkedin :  https://www.linkedin.com/in/changhyeon-yoon-4018b71ba/
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanghyeonYoon&count_private=true)
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ChanghyeonYoon)](https://solved.ac/kinetic27)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanghyeonYoon&count_private=true) <br>
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ChanghyeonYoon)](https://solved.ac/ChanghyeonYoon)
 
 <!--
 **ChanghyeonYoon/ChanghyeonYoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
