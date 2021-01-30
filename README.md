@@ -20,8 +20,6 @@
 - Linkedin :  https://www.linkedin.com/in/changhyeon-yoon-4018b71ba/
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ChanghyeonYoon=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **ChanghyeonYoon/ChanghyeonYoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
