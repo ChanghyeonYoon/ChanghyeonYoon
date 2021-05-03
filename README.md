@@ -20,7 +20,17 @@
 - Linkedin :  https://www.linkedin.com/in/changhyeon-yoon-4018b71ba/
 
 ## Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanghyeonYoon&count_private=true) <br>
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ChanghyeonYoon&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanghyeonYoon&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/> 
 
 
 <!--
