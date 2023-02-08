@@ -17,7 +17,7 @@
 
 ## 📱 Get in Touch
 - Facebook : https://www.facebook.com/profile.php?id=100049705026429
-- Instagram : https://www.instagram.com/hyeon_dev/
+- Instagram : https://www.instagram.com/changhyeon.dev/
 - Linkedin :  https://www.linkedin.com/in/changhyeon-yoon-4018b71ba/
 
 ## Github Stats
