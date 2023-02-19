@@ -2,7 +2,7 @@
 - ⛪ School️ : Hanyang University Computer Software Dept
 - 🏢 Office 
 - Actbase, Front-End Developer ( 2020. 12 ~ 2022.02 ) 
-- Fuseble, Front-End / Co-Founder ( 2022.03 ~ )
+- Fuseble, Front-End / Co-Founder ( 2022.03 ~ 2023.02 )
 - GDSC KR : Google Developer Student Clubs - Hanyang University 1st Lead.
 
 
