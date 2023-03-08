@@ -1,13 +1,13 @@
 ## 👋🏻 Changhyeon Yoon (Front-End Developer) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChanghyeonYoon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-- ⛪ School️ : Hanyang University Computer Software Dept
+⛪ School️ : Hanyang University Computer Software Dept
 
-- 🏢 Office 
+🏢 Office 
 - Actbase, Front-End Developer ( 2020. 12 ~ 2022.02 ) 
 - Fuseble, Front-End Develope ( 2022.03 ~ 2023.02 )
 - Likelion @SYLTARE, Front-End Developer (2023.03 ~ current )
 
 
-- GDSC KR : Google Developer Student Clubs - Hanyang University 1st Lead.
+GDSC KR : Google Developer Student Clubs - Hanyang University 1st Lead.
 
 
 ## 🖥  Tech Stack
