@@ -1,4 +1,4 @@
-## 👋🏻 Changhyeon Yoon (Front-End Developer) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChanghyeonYoon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## 👋🏻 Changhyeon Yoon [Yooniverse] (Front-End Developer) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChanghyeonYoon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ⛪ School️ : Hanyang University Computer Software Dept
 
 🏢 Office 
@@ -21,7 +21,7 @@ GDSC KR : Google Developer Student Clubs - Hanyang University 1st Lead.
 
 ## 📱 Get in Touch
 - Facebook : https://www.facebook.com/profile.php?id=100049705026429
-- Instagram : https://www.instagram.com/changhyeon.dev/
+- Instagram : https://www.instagram.com/yooniverse.dev/
 - Linkedin :  https://www.linkedin.com/in/changhyeon-yoon-4018b71ba/
 
 ## Github Stats
