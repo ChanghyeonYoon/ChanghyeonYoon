@@ -4,7 +4,7 @@
 🏢 Office 
 - Actbase, Front-End Developer ( 2020. 12 ~ 2022.02 ) 
 - Fuseble, Front-End Develope ( 2022.03 ~ 2023.02 )
-- Likelion @SYLTARE, Front-End Developer (2023.03 ~ current )
+- LIKELION Blockchain Group - NFT Division @SYLTARE, Front-End Developer (2023.03 ~ current )
 
 
 GDSC KR : Google Developer Student Clubs - Hanyang University 1st Lead.
