@@ -1,3 +1,9 @@
+[![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=round-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100049705026429)]([https://www.facebook.com/jhnam88](https://www.facebook.com/profile.php?id=100049705026429))
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=round-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yooniverse.dev)](https://www.instagram.com/yooniverse.dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/changhyeon-yoon-4018b71ba)]([https://www.linkedin.com/in/jhnam88](https://www.linkedin.com/in/changhyeon-yoon-4018b71ba)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ChanghyeonYoon&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 👋🏻 Changhyeon Yoon [Yooniverse] (Front-End Developer) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChanghyeonYoon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ⛪ School️ : Hanyang University Computer Software Dept
 
@@ -18,11 +24,6 @@ GDSC KR : Google Developer Student Clubs - Hanyang University 1st Lead.
 ![React.js](https://img.shields.io/badge/-React.js-lightgrey)
 ![Next.js](https://img.shields.io/badge/-Next.js-yellow)
 ![React Native](https://img.shields.io/badge/-React%20Native-blue)
-
-## 📱 Get in Touch
-- Facebook : https://www.facebook.com/profile.php?id=100049705026429
-- Instagram : https://www.instagram.com/yooniverse.dev/
-- Linkedin :  https://www.linkedin.com/in/changhyeon-yoon-4018b71ba/
 
 ## Github Stats
 <table><tr><td valign="top" width="50%">
