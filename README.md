@@ -1,4 +1,4 @@
-[![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=round-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100049705026429)]([https://www.facebook.com/jhnam88](https://www.facebook.com/profile.php?id=100049705026429))
+[![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=round-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100049705026429)](https://www.facebook.com/jhnam88](https://www.facebook.com/profile.php?id=100049705026429)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=round-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yooniverse.dev)](https://www.instagram.com/yooniverse.dev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/changhyeon-yoon-4018b71ba)](https://www.linkedin.com/in/changhyeon-yoon-4018b71ba)
 
