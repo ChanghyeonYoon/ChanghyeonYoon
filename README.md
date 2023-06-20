@@ -2,8 +2,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=round-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yooniverse.dev)](https://www.instagram.com/yooniverse.dev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/changhyeon-yoon-4018b71ba)](https://www.linkedin.com/in/changhyeon-yoon-4018b71ba)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ChanghyeonYoon&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 👋🏻 Changhyeon Yoon [Yooniverse] (Front-End Developer) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChanghyeonYoon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ⛪ School️ : Hanyang University Computer Software Dept
 
@@ -16,32 +14,9 @@
 
 GDSC KR : Google Developer Student Clubs - Hanyang University 1st Lead.
 
-
-## 🖥  Tech Stack
-![HTML](https://img.shields.io/badge/-HTML-brightgreen)
-![CSS](https://img.shields.io/badge/-CSS-yellowgreen)
-![JavaScript](https://img.shields.io/badge/-JavaScript-orange)
-![TypeScript](https://img.shields.io/badge/-TypeScript-red)
-![React.js](https://img.shields.io/badge/-React.js-lightgrey)
-![Next.js](https://img.shields.io/badge/-Next.js-yellow)
-![React Native](https://img.shields.io/badge/-React%20Native-blue)
+![Metrics](https://metrics.lecoq.io/ChanghyeonYoon?template=classic&isocalendar=1&languages=1&lines=1&stars=1&habits=1&people=1&repositories=1&discussions=1&achievements=1&notable=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&discussions=false&discussions.categories=true&discussions.categories.limit=0&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=all&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FSeoul)
 
 <br/> 
 
 ## 🎶Music
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aim2x9i3fsieeq7rffboost6l&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
-<!--
-**ChanghyeonYoon/ChanghyeonYoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
