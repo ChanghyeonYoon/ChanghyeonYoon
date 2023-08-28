@@ -14,8 +14,8 @@
 - Granter, Front-End Developer (2023.06 ~ )
 
 
-Google Developer Student Clubs - Hanyang University 1st Lead. <br/>
-Microsoft Learn Student Ambassadors
+- Google Developer Student Clubs - Hanyang University 1st Lead. <br/>
+- Microsoft Learn Student Ambassadors
 
 ## 🎶Music
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aim2x9i3fsieeq7rffboost6l&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
