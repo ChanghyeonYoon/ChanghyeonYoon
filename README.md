@@ -14,7 +14,7 @@
 - Granter, Front-End Developer (2023.06 ~ )
 
 
-Google Developer Student Clubs - Hanyang University 1st Lead.
+Google Developer Student Clubs - Hanyang University 1st Lead. <br/>
 Microsoft Learn Student Ambassadors
 
 ## 🎶Music
