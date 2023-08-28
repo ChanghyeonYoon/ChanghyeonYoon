@@ -13,7 +13,7 @@
 - LIKELION Blockchain Group - NFT Division @SYLTARE, Front-End Developer (2023.03 ~ 2023.05)
 - Granter, Front-End Developer (2023.06 ~ )
 
-
+<br/>
 - Google Developer Student Clubs - Hanyang University 1st Lead. <br/>
 - Microsoft Learn Student Ambassadors
 
