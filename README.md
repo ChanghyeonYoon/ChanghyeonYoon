@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/changhyeon-yoon-4018b71ba)](https://www.linkedin.com/in/changhyeon-yoon-4018b71ba)
 
 ## 👋🏻 Changhyeon Yoon [Yooniverse] (Frontend, DevOps)
-
+![Metrics](https://raw.githubusercontent.com/ChanghyeonYoon/ChanghyeonYoon/main/github-metrics.svg)
 
 🏢 Office 
 - Actbase, Front-End Developer ( 2020. 12 ~ 2022.02 ) 
