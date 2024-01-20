@@ -77,9 +77,6 @@ jobs:
           plugin_people_types: followers, following
           plugin_repositories: yes
           plugin_repositories_order: featured, pinned, starred, random
-          plugin_rss: yes
-          plugin_rss_limit: 4
-          plugin_rss_source: https://changhyeon.net/feed
           plugin_stars: yes
           plugin_stars_limit: 4
           #plugin_wakatime: yes
