@@ -3,7 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=round-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/changhyeon-yoon-4018b71ba)](https://www.linkedin.com/in/changhyeon-yoon-4018b71ba)
 
 ## 👋🏻 Changhyeon Yoon [Yooniverse] (Frontend, DevOps)
-![Metrics](https://raw.githubusercontent.com/ChanghyeonYoon/ChanghyeonYoon/main/github-metrics.svg)
 
 🏢 Office 
 - Actbase, Front-End Developer ( 2020. 12 ~ 2022.02 ) 
@@ -15,5 +14,12 @@
 - Google Developer Student Clubs - Hanyang University 1st Lead.
 - Microsoft Learn Student Ambassadors
 
+🪪 Certifications
+<div style="display: flex; flex-direction: row;">
+    <a href="https://www.credly.com/badges/3f96f9d8-a929-4c20-bd1a-0d7247cbc05c/public_url"><img alt="AWS SAA" src="https://img.shields.io/badge/AWS-Certified Solution Architect-white?logo=amazon&logoColor=white"></a> 
+</div> 
+
 ## 🎶Music
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aim2x9i3fsieeq7rffboost6l&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+![Metrics](https://raw.githubusercontent.com/ChanghyeonYoon/ChanghyeonYoon/main/github-metrics.svg)
