@@ -17,7 +17,6 @@
 <div style="display: flex; flex-direction: row;">
     <a href="https://www.credly.com/badges/3f96f9d8-a929-4c20-bd1a-0d7247cbc05c/public_url"><img alt="AWS SAA" src="https://img.shields.io/badge/AWS-Certified Solution Architect-white?logo=amazon&logoColor=white"></a> 
 </div> 
-<br/>
 
 ### 🚀 Activity 
 ![Metrics](https://raw.githubusercontent.com/ChanghyeonYoon/ChanghyeonYoon/main/github-metrics.svg)
