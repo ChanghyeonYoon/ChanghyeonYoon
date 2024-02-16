@@ -5,7 +5,7 @@
 ## 👋🏻 Changhyeon Yoon [Yooniverse] (Software Engineer)
 
 ### 🏢 Office 
-- System Integration Company, Front-End Engineer ( 2020. 12 ~ 2023.02 ) 
+- System Integration, Front-End Engineer ( 2020. 12 ~ 2023.02 ) 
 - LIKELION Blockchain Group - NFT Division @SYLTARE, Front-End Engineer (2023.03 ~ 2023.05)
 - Granter, Front-End Engineer (2023.06 ~ )
 
@@ -21,6 +21,6 @@
 ### 🚀 Activity 
 ![Metrics](https://raw.githubusercontent.com/ChanghyeonYoon/ChanghyeonYoon/main/github-metrics.svg)
 
-🎶Music
+### 🎶Music
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aim2x9i3fsieeq7rffboost6l&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
