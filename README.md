@@ -12,10 +12,11 @@
 ### 🔥 Experience
 - Google Developer Student Clubs - Hanyang University 1st Lead.
 - Microsoft Learn Student Ambassadors
+ 
 
 ### 🪪 Certifications
 <div style="display: flex; flex-direction: row;">
-    <a href="https://www.credly.com/badges/3f96f9d8-a929-4c20-bd1a-0d7247cbc05c/public_url"><img alt="AWS SAA" src="https://img.shields.io/badge/AWS-Certified Solution Architect-white?logo=amazon&logoColor=white"></a> 
+    <a href="https://www.credly.com/badges/0f8a7ae0-3fc5-4145-a9a3-634b95efedc7/public_url"><img alt="AWS SAA" src="https://img.shields.io/badge/AWS-Certified Solution Architect-white?logo=amazon&logoColor=white"></a> 
 </div> 
 
 ### 🚀 Activity 
