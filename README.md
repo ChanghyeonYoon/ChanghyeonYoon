@@ -22,6 +22,6 @@
 ### 🚀 Activity 
 ![Metrics](https://raw.githubusercontent.com/ChanghyeonYoon/ChanghyeonYoon/main/github-metrics.svg)
 
-### 🎶Music
+### 🎶 Music
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aim2x9i3fsieeq7rffboost6l&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
