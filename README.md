@@ -10,8 +10,9 @@
 - Granter, Front-End Engineer (2023.06 ~ )
 
 ### 🔥 Experience
+- Microsoft Learn Student Ambassador
+- Datadog Ambassador
 - Google Developer Student Clubs - Hanyang University 1st Lead.
-- Microsoft Learn Student Ambassadors
  
 
 ### 🪪 Certifications
