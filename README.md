@@ -4,8 +4,8 @@
 
 ## 👋🏻 Changhyeon Yoon [Yooniverse] (Software Engineer)
 
-### 🏢 Office 
-- System Integration, Front-End Engineer ( 2020. 12 ~ 2023.02 ) 
+### 🏢 Office
+- System Integration, Front-End Engineer ( 2020. 12 ~ 2023.02 )
 - LIKELION Blockchain Group - NFT Division @SYLTARE, Front-End Engineer (2023.03 ~ 2023.05)
 - Granter, Front-End Engineer (2023.06 ~ )
 
@@ -13,18 +13,17 @@
 - Microsoft Learn Student Ambassador
 - Datadog Ambassador
 - Google Developer Student Clubs - Hanyang University 1st Lead.
- 
+
 
 ### 🪪 Certifications
 <div style="display: flex; flex-direction: row;">
     <a href="https://www.credly.com/badges/0f8a7ae0-3fc5-4145-a9a3-634b95efedc7/public_url"><img alt="AWS SAA" src="https://img.shields.io/badge/AWS-Certified Solution Architect-white?logo=amazon&logoColor=white"></a> 
 </div> 
 
-### 🚀 Activity 
-<div style="display: flex; flex-direction: row;">
- ![Metrics](https://raw.githubusercontent.com/ChanghyeonYoon/ChanghyeonYoon/main/github-metrics.svg)
- <a href="https://opgc.me/#/users/ChanghyeonYoon" target="_blank"><img src="https://api.opgc.me/githubs/users/ChanghyeonYoon/tag/?theme=basic" /></a>
-</div>
+### 🚀 Activity
+<a href="https://opgc.me/#/users/ChanghyeonYoon" target="_blank"><img src="https://api.opgc.me/githubs/users/ChanghyeonYoon/tag/?theme=basic" /></a>
+![Metrics](https://raw.githubusercontent.com/ChanghyeonYoon/ChanghyeonYoon/main/github-metrics.svg)
+
 
 
 ### 🎶 Music
