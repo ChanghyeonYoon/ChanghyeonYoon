@@ -8,6 +8,7 @@
 - System Integration, Front-End Engineer ( 2020. 12 ~ 2023.02 )
 - LIKELION Blockchain Group - NFT Division @SYLTARE, Front-End Engineer (2023.03 ~ 2023.05)
 - Granter, Front-End Engineer (2023.06 ~ 2024.06)
+- MIRI D.I.H Front-End Engineer (2024.07 ~ )
 
 ### 🔥 Experience
 - Microsoft Learn Student Ambassador
