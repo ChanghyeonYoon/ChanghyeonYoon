@@ -13,10 +13,8 @@
 ### 🔥 Experience
 - Microsoft Learn Student Ambassador
 - Datadog Ambassador
-- Google Developer Groups (GDG) - Incheon/Songdo Organizer
-- Let'Swift 2024 Organizer
+- Google Developer Groups (GDG) - Incheon Organizer
 - KWDC 2024 Organizer
-- PyCon Korea 2024 Organizer
 - Golang Korea 2023 Organizer
 - Google Developer Student Clubs - Hanyang University 1st Lead.
 
