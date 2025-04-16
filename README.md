@@ -8,15 +8,16 @@
 - System Integration, Front-End Engineer ( 2020. 12 ~ 2023.02 )
 - LIKELION Blockchain Group - NFT Division @SYLTARE, Front-End Engineer (2023.03 ~ 2023.05)
 - Granter, Front-End Engineer (2023.06 ~ 2024.06)
-- MIRI D.I.H Front-End Engineer (2024.07 ~ )
+- MIRI D.I.H Front-End Engineer (2024.07 ~ 2025.02)
+- MIRI D.I.H Site Reliability Engineer (2025.03 ~ )
 
 ### 🔥 Experience
-- Microsoft Learn Student Ambassador
-- Datadog Ambassador
-- Google Developer Groups (GDG) - Incheon Organizer
-- KWDC 2024 Organizer
-- Golang Korea 2023 Organizer
-- Google Developer Student Clubs - Hanyang University 1st Lead.
+- Datadog Ambassador (2024 ~ )
+- Google Developer Groups (GDG) - Incheon Organizer (2024 ~ )
+- KWDC Organizer (2024 ~ )
+- Microsoft Learn Student Ambassador (2023 ~ 2024)
+- Golang Korea Organizer (2023)
+- Google Developer Student Clubs - Hanyang University 1st Lead. (2022)
 
 
 ### 🪪 Certifications
