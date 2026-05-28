@@ -9,7 +9,8 @@
 - LIKELION Blockchain Group - NFT Division @SYLTARE, Front-End Engineer (2023.03 ~ 2023.05)
 - Granter, Front-End Engineer (2023.06 ~ 2024.06)
 - MIRI D.I.H Front-End Engineer (2024.07 ~ 2025.02)
-- MIRI D.I.H Site Reliability Engineer (2025.03 ~ )
+- MIRI D.I.H Site Reliability Engineer (2025.03 ~ 2026.02)
+- MIRI D.I.H DevOps Engineer (2026.03 ~ )
 
 ### 🔥 Experience
 - Datadog Ambassador (2024 ~ )
