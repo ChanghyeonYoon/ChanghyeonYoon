@@ -8,9 +8,7 @@
 - Front-End Engineer@System Integration ( 2020. 12 ~ 2023.02 )
 - Front-End Engineer@LIKELION Blockchain Group - NFT Division @SYLTARE (2023.03 ~ 2023.05)
 - Front-End Engineer@Granter 2023.06 ~ 2024.06)
-- Front-End Engineer@MIRI D.I.H (2024.07 ~ 2025.02)
-- Site Reliability Engineer@MIRI D.I.H (2025.03 ~ 2026.02)
-- DevOps Engineer@MIRI D.I.H (2026.03 ~ 2026.09)
+- DevOps Engineer@MIRI D.I.H (2024.07 ~ 2026.09)
 - DevRel@CJ OLIVE YOUNG (2026.09 ~ )
 
 ### 🔥 Experience
