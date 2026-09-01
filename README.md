@@ -5,13 +5,13 @@
 ## 👋🏻 Changhyeon Yoon [Yooniverse] (Software Engineer)
 
 ### 🏢 Office
-- System Integration, Front-End Engineer ( 2020. 12 ~ 2023.02 )
-- LIKELION Blockchain Group - NFT Division @SYLTARE, Front-End Engineer (2023.03 ~ 2023.05)
-- Granter, Front-End Engineer (2023.06 ~ 2024.06)
-- MIRI D.I.H Front-End Engineer (2024.07 ~ 2025.02)
-- MIRI D.I.H Site Reliability Engineer (2025.03 ~ 2026.02)
-- MIRI D.I.H DevOps Engineer (2026.03 ~ 2026.09)
-- CJ OLIVE YOUNG DevRel (2026.09 ~ )
+- Front-End Engineer@System Integration ( 2020. 12 ~ 2023.02 )
+- Front-End Engineer@LIKELION Blockchain Group - NFT Division @SYLTARE (2023.03 ~ 2023.05)
+- Front-End Engineer@Granter 2023.06 ~ 2024.06)
+- Front-End Engineer@MIRI D.I.H (2024.07 ~ 2025.02)
+- Site Reliability Engineer@MIRI D.I.H (2025.03 ~ 2026.02)
+- DevOps Engineer@MIRI D.I.H (2026.03 ~ 2026.09)
+- DevRel@CJ OLIVE YOUNG (2026.09 ~ )
 
 ### 🔥 Experience
 - Datadog Ambassador (2024 ~ )
