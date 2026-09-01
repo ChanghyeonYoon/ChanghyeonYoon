@@ -10,12 +10,13 @@
 - Granter, Front-End Engineer (2023.06 ~ 2024.06)
 - MIRI D.I.H Front-End Engineer (2024.07 ~ 2025.02)
 - MIRI D.I.H Site Reliability Engineer (2025.03 ~ 2026.02)
-- MIRI D.I.H DevOps Engineer (2026.03 ~ )
+- MIRI D.I.H DevOps Engineer (2026.03 ~ 2026.09)
+- CJ OLIVE YOUNG DevRel (2026.09 ~ )
 
 ### 🔥 Experience
 - Datadog Ambassador (2024 ~ )
-- Google Developer Groups (GDG) - Incheon Organizer (2024 ~ )
-- KWDC Organizer (2024 ~ )
+- Google Developer Groups (GDG) - Incheon Organizer (2024 ~ 2026)
+- KWDC Organizer (2024 ~ 2025)
 - Microsoft Learn Student Ambassador (2023 ~ 2024)
 - Golang Korea Organizer (2023)
 - Google Developer Student Clubs - Hanyang University 1st Lead. (2022)
